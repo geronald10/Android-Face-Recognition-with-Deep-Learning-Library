@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="D:\userta\5113100112\FaceDetectionOpencvNDK\FaceRecognitionLibrary\src\main\shaders"/></dataSet><dataSet config="release"><source path="D:\userta\5113100112\FaceDetectionOpencvNDK\FaceRecognitionLibrary\src\release\shaders"/></dataSet></merger>
